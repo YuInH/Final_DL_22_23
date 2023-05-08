@@ -9,4 +9,4 @@ We use 2 Roberta-based pretrained model and fine-tuned 1 for the same task in En
 Link for test (using HuggingFace API): 
 - XLM-R-vi-en-zh: https://huggingface.co/FredDYyy/XLM_R_Extractive_QA_Vi_En_Zh
 - Roberta-based-en: https://huggingface.co/FredDYyy/roberta-base-squadv2
-= Roberta-based-vi: https://huggingface.co/FredDYyy/Roberta_vi_MLQA
+- Roberta-based-vi: https://huggingface.co/FredDYyy/Roberta_vi_MLQA
